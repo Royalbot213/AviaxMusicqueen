@@ -16,7 +16,7 @@ import random
 import logging
 import aiohttp
 import config
-from config import API_URL, API_KEY
+from config import API_URL, API_KEY 154.26.159.2
 
 
 def cookie_txt_file():
